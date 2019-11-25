@@ -1,0 +1,79 @@
+.choose .van-tab--active {
+  color: #ea64a2;
+}
+
+.choose .content {
+  width: 100%;
+  height: 200px;
+}
+
+.choose .content p {
+  color: #ea64a2;
+  margin: 10px;
+}
+
+.choose .content .model {
+  width: 100%;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.choose .content .model .img {
+  width: 100%;
+  height: 250px;
+}
+
+.choose .content .model .content-foot {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
+
+.choose .content .model .content-foot .delta {
+  display: inline-block;
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  margin-top: 10px;
+  border: 15px transparent solid;
+  border-left-color: #ea64a2;
+}
+
+.choose .content .model .content-foot .discount {
+  display: inline-block;
+  height: 30px;
+  width: 70px;
+  background-color: #ea64a2;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.choose .content .model .content-foot .circular {
+  position: absolute;
+  margin-top: 22px;
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.choose .content .model .content-foot .news {
+  position: absolute;
+  right: 0;
+  margin-top: 10px;
+  color: #ea64a2;
+  margin-right: 10px;
+}
+
+.choose .content .model .content-foot .names {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.choose .van-tabs__line {
+  background-color: #ea64a2;
+}

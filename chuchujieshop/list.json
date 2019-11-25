@@ -1,0 +1,2963 @@
+﻿{
+    "data": {
+        "boy": {
+            "id": 1,
+            "name": "炫酷男装",
+            "update": "春季上新",
+            "image": "https://s10.mogucdn.com/mlcdn/c45406/180821_1bb8lfgjie5e5fl2e1j4il29jl5ch_160x160.jpg",
+            "goodsList": [{
+                    "id": "1",
+                    "name": "易燃青年 长袖撞色拼接休闲夹克男 学生春装宽松翻领上衣外套",
+                    "imgUrl": "https://gd4.alicdn.com/imgextra/i4/2962257955/O1CN0128dR9me80xQJTDB_!!2962257955.jpg",
+                    "news": "新品上新",
+                    "price": 168,
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/2962257955/O1CN0128dR9me80xQJTDB_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/2962257955/O1CN0128dR9njqCuZOkPz_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/2962257955/TB2If_jnbZnBKNjSZFKXXcGOVXa_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/2962257955/TB2LsYAnfImBKNjSZFlXXc43FXa_!!2962257955.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2962257955/O1CN01xC0HeA28dRGwWsBI5_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2962257955/O1CN01pk50d128dRGoky0o8_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2962257955/TB2vI7Vm9YTBKNjSZKbXXXJ8pXa_!!2962257955.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2962257955/O1CN0128dR9rUhU45QqRH_!!2962257955.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "原宿ulzzang羊羔毛加厚棉衣外套男冬季宽松韩版棉袄青少年棉服潮",
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i1/175232085/O1CN01PujZ8L1RGyHiw8C9X_!!175232085.jpg",
+                    "news": "新品上新",
+                    "price": 154,
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i1/175232085/O1CN01PujZ8L1RGyHiw8C9X_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/175232085/O1CN01aae81L1RGyHkhZQ3L_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/175232085/O1CN01GILwHx1RGyHjMHMMR_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/175232085/O1CN01Mm0ZFj1RGyHkwBCbT_!!175232085.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/175232085/O1CN01NUVNBE1RGyHl8Daen_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/175232085/O1CN0196O5LZ1RGyHeKTsKX_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/175232085/O1CN01MRTADv1RGyHkwD59a_!!175232085.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/175232085/O1CN01lbsaim1RGyHlbFUMg_!!175232085.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "春秋棒球服男潮牌皮袖棒球衣男士宽松大码休闲毛呢夹克外套潮短款",
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i1/276426711/O1CN01WpaU3g1zRgTL0mrlU_!!276426711.jpg",
+                    "news": "新品上新",
+                    "price": 135,
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i1/276426711/O1CN01WpaU3g1zRgTL0mrlU_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/276426711/O1CN01v6wo6h1zRgXFRrF2l_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/276426711/O1CN01r0xAzj1zRgVFxyKuD_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/276426711/TB2NYZPaFXXXXclXXXXXXXXXXXX_!!276426711.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/276426711/O1CN01LdPGnV1zRgYqMqxgI_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/276426711/O1CN011zRgTKcGJQFW0Np_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/276426711/O1CN011zRgSM6cvoXnOus_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/276426711/O1CN01BIZ4sw1zRgTPSUtlv_!!276426711.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "太平鸟男装 短款毛呢大衣男修身羊毛大衣韩版新款商务风衣外套潮",
+                    "imgUrl": "https://img.alicdn.com/bao/uploaded/i2/2166356588/O1CN01Gk7LyO1yXLqq6SL6w_!!2166356588.jpg",
+                    "news": "新品上新",
+                    "price": 1680,
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://img.alicdn.com/bao/uploaded/i2/2166356588/O1CN01Gk7LyO1yXLqq6SL6w_!!2166356588.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2166356588/O1CN01SsISQG1yXLqBBVEIT_!!2166356588.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://item.taobao.com/item.htm?spm=a219r.lm895.14.10.12933617evu9jc&id=601989597902&ns=1&abbucket=10"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2166356588/O1CN01d9rd8k1yXLq0yRxxS_!!2166356588.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2166356588/O1CN01eJf4dZ1yXLqo3avMz_!!2166356588.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2166356588/O1CN01pRQSx11yXLq2GL1NW_!!2166356588.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/276426711/O1CN011zRgSM6cvoXnOus_!!276426711.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2166356588/O1CN01aRgXli1yXLpwuz7TK_!!2166356588.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "name": "男道秋季新款韩版复古拼接撞色工装夹克衫男生潮流棒球服休闲外套",
+                    "price": 110,
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i1/0/O1CN01VoMmGb2Cp7pUyu3xt_!!0-item_pic.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUr1": "https://gd3.alicdn.com/imgextra/i1/0/O1CN01VoMmGb2Cp7pUyu3xt_!!0-item_pic.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/63118522/O1CN01wFsLac2Cp7pXq3bXp_!!63118522.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/63118522/O1CN01Y0Fx0U2Cp7pTY1n2e_!!63118522.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/63118522/O1CN01okEpuV2Cp7qF02JAi_!!0-item_pic.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "snack": {
+            "id": 2,
+            "name": "零食",
+            "update": "优惠多多",
+            "image": "https://s16.mogucdn.com/p1/150924/upload_ie2dozbxguztindegmzdambqgiyde_68x68.jpg",
+            "goodsList": [{
+                    "id": "1",
+                    "name": " 三只松鼠坚果大礼包9袋 网红零食每日坚果干果礼盒碧根果节日送礼团购火红A版1720g",
+                    "price": 109,
+                    "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/50053/27/14938/186571/5dbf8141E55552c5c/5d2aea6b7a15fe90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/50053/27/14938/186571/5dbf8141E55552c5c/5d2aea6b7a15fe90.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/61970/22/11461/261909/5d8c2e5eEbfdc1749/6d93aa9254ec3a13.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t27994/358/1565270778/109983/69b8077d/5ce4e958N4c569263.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/19797/9/13120/37615/5c9d846cEfcbcd86b/5b8b80e5b80d5acb.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/24319/18/13838/71071/5ca2bb1fE655f0c6d/094ccfbc186dc89e.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/33523/24/12079/483017/5ceb4e06E3fbc445e/80d042488c448d1f.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/16087/23/12726/253951/5c9c3fd8E306935a0/9b80fb82d8d9b190.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/20322/36/12916/250561/5c9c3fd9Ec10ba8ab/2249a90bb0961b5f.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "500g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g+500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "德芙Dove巧克力分享碗装 什锦牛奶榛仁葡萄干巧克力办公室休闲零食 员工福利 249g",
+                    "price": 28.9,
+                    "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/1918/22/299/290224/5b90e306E4ea13ec5/fdd416f0682d0d3e.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/1918/22/299/290224/5b90e306E4ea13ec5/fdd416f0682d0d3e.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t27589/199/410848262/349345/7e69ef6b/5b90e306N33dbcc06.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1732/359/1057496650/120413/3cf5c81b/55dfbd8cNba3ea1bb.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1741/16/1099537786/127368/55bc3b71/55dfbd8eN9f692087.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/40256/19/1471/165430/5cbd5321E9df6fbb4/8a688ad7bf17484b.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/31458/20/14135/110461/5cbd5321Ea69b946f/2c7a4f975e3feb49.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/40229/6/1493/248085/5cbd5321E2f98cec8/8b8459de56ec30e0.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/32576/3/14353/180907/5cbd5321Ead2e9e61/69302e54d0ff6e55.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "500g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g+500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "港荣蒸蛋糕 奶香味900g整箱装 饼干蛋糕 手撕面包口袋吐司 营养早餐食品 休闲零食小吃",
+                    "price": 37.8,
+                    "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/24719/4/15377/376386/5caff612Ed2715284/e97073b9fee27e1d.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/24719/4/15377/376386/5caff612Ed2715284/e97073b9fee27e1d.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/18650/34/4320/155240/5c302710Ed4f08c0e/6294be842795eabf.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t24280/144/1644523706/450993/5c61ef5a/5b6508eeN24df40bd.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/29762/33/4211/204584/5c302770Efde331d6/0fc9ee771e72a589.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t25774/60/1360720366/86169/483190ab/5baedb95N3ae02d97.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t25258/111/1354870798/116735/c8782844/5baedb95N24e7686e.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t26383/86/467565112/158819/72ec43fc/5baedb95N13989abb.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img14.360buyimg.com/cms/jfs/t24514/128/1136190016/660629/b75fa59e/5b519796N87d2ad84.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "500g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g+500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "卫龙 休闲零食小吃网红怀旧儿时辣条 办公室麻辣零食大礼包 小包装香辣味小面筋500g/袋 约20包",
+                    "price": 13.9,
+                    "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/45818/26/9620/2701271/5d6e054dE7ee5f140/bd6364afc64b5100.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/45818/26/9620/2701271/5d6e054dE7ee5f140/bd6364afc64b5100.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/76258/9/12725/344026/5da1c175E6c4214bc/81b53d52a7e6068b.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/30735/7/13209/194332/5cb98c68Ee984990c/4e3cd2be2a8f848d.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/56163/36/8595/222102/5d5fb90cE39c14f64/12f2a522ed4bfb12.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/56563/39/8525/704829/5d5fb859E6937abbd/b54b73eef7e89df2.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/50865/3/8515/243834/5d5fb859Ed9935cb4/a1b0fe91e59cd605.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/68419/12/8133/118371/5d5fb858Ef6832e4f/5e8df0f033603083.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/81420/17/7910/390375/5d5fb859E07321ac5/aad19693550b455e.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "500g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g+500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "name": "喜之郎果冻果冻大杯装水果味什锦黄桃苹果菠萝200g整箱包邮儿童礼物学生休闲怀旧零食批发无热量低卡 【什锦果肉】200g/6杯装（热卖）",
+                    "price": 24.9,
+                    "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/71710/1/10978/137345/5d881998E9c4ec0bc/17d07b4981d979a4.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/71710/1/10978/137345/5d881998E9c4ec0bc/17d07b4981d979a4.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/82306/18/11102/101335/5d881a24E74369884/258439c99f0dd15c.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/73866/18/11064/55211/5d881a6cEd1950b9e/620329a8c900e885.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img13.360buyimg.com/n1/jfs/t1/78823/37/11112/129912/5d881adfE946d684f/6e775e0d00ba7524.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/40610/8/15761/560512/5d881bd5E6db2cf1d/93252efa4ddd7213.png"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/63993/6/11212/487816/5d881bd5E8f3fd20a/0d8cf10705126f27.png"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/52924/13/11427/490569/5d881bd5E8fed0e17/0b6ec55dfe17a4c1.png"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/42457/34/15684/635422/5d881bd6Eb0ea172f/891eda888b615031.png"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "500g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g+500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "homeAppliances": {
+            "id": 3,
+            "name": "家居百货",
+            "update": "低价爆款清仓",
+            "image": "https://s2.mogucdn.com/p2/170222/131760533_68igbeh024lcjdjk72je0e5db37h8_68x68.jpg",
+            "goodsList": [{
+                    "id": "01",
+                    "name": "Chigo/志高BCD-58A118小型冰箱家用双门租房用宿舍节能迷小电冰箱",
+                    "price": 449,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/2200626574213/O1CN01YsC6Di1gzb9akNCBh_!!2200626574213.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2200626574213/O1CN01YsC6Di1gzb9akNCBh_!!2200626574213.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2200626574213/O1CN01CqN39V1gzbBFVlLBU_!!2200626574213.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2200626574213/O1CN01IRzVMz1gzb9lHV4lt_!!2200626574213.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2200626574213/O1CN01IqMbyM1gzb7wxa0gC_!!2200626574213.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2200626574213/O1CN01RfmFkK1gzb8k3blCX_!!2200626574213.jpg"
+                        },
+                        {
+                            "goodsid": "01b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2200626574213/O1CN01mjRgiG1gzb7kPMBNm_!!2200626574213.jpg"
+                        },
+                        {
+                            "goodsid": "01c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2200626574213/O1CN01AzOyPf1gzb80oAqSQ_!!2200626574213.jpg"
+                        },
+                        {
+                            "goodsid": "01d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2200626574213/O1CN01QI8Tzb1gzb8fWiIKF_!!2200626574213.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "小"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "中"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "大"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "02",
+                    "name": "方太X5S洗碗机全自动家用水槽一体嵌入式小型智能家电刷碗机",
+                    "price": 10599,
+                    "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/667454208/O1CN01xD8z501gxJDILPvRe_!!667454208.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "02a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/667454208/O1CN01xD8z501gxJDILPvRe_!!667454208.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "02b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/667454208/O1CN01fTTjqs1gxJ9hXQkT8_!!667454208.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "02c",
+                            "imgUrl": "//img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/667454208/O1CN016ikJWr1gxJ9F2bGc0_!!667454208.jpg_60x60q90.jpg"
+                        },
+                        {
+                            "goodsid": "02d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/667454208/O1CN01cUgeC01gxJA5OVQC6_!!667454208.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "02a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/667454208/O1CN01QgmBMD1gxJDLG3dEX_!!667454208.jpg"
+                        },
+                        {
+                            "goodsid": "02b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/667454208/O1CN01U6sqFB1gxJCDLsfQd_!!667454208.jpg"
+                        },
+                        {
+                            "goodsid": "02c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/667454208/O1CN01GaqfbP1gxJC4LGg6r_!!667454208.jpg"
+                        },
+                        {
+                            "goodsid": "02d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/667454208/O1CN01L6jEhR1gxJC6rfn19_!!667454208.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "小"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "中"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "大"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "03",
+                    "name": "松下家电吸尘器CL443家用大吸力无尘袋卧式强力大功率除螨吸尘器",
+                    "price": 648,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/686591870/O1CN011PgV660vpjVebO2_!!686591870.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "03a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/686591870/O1CN011PgV660vpjVebO2_!!686591870.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/686591870/O1CN01O1dfCR1PgVArYXlSl_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/686591870/O1CN011PgV66V3awRUxPr_!!686591870.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/686591870/O1CN011PgV660vpjVebO2_!!686591870.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "03a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/686591870/O1CN012gLC6t1PgVArYTwBI_!!686591870.jpg"
+                        },
+                        {
+                            "goodsid": "03b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/686591870/O1CN01tWSi481PgVAnXQaUi_!!686591870.jpg"
+                        },
+                        {
+                            "goodsid": "03c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/686591870/O1CN01HIVoRr1PgVAqE7Dfj_!!686591870.jpg"
+                        },
+                        {
+                            "goodsid": "03d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/686591870/O1CN013uG8OF1PgVAhlJDwZ_!!686591870.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "小"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "中"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "大"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "04",
+                    "name": "Galanz/格兰仕 G70F20N2L-DG(SO)家用机械式光波炉微波炉烤箱一体",
+                    "price": 499,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/2069517494/O1CN0125EIanwIwDGEHKo_!!2069517494.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "04a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2069517494/O1CN0125EIanwIwDGEHKo_!!2069517494.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2069517494/O1CN01ewcI4y25EIarJtP3O_!!2069517494.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2069517494/O1CN01WxMTBS25EIapj9SdM_!!2069517494.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2069517494/O1CN01EgCWy225EIg0TgrY6_!!2069517494.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "04a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2069517494/O1CN0125EIZRnkuO447HT_!!2069517494.jpg"
+                        },
+                        {
+                            "goodsid": "04b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2069517494/O1CN0125EIZTJuXkxZiGu_!!2069517494.jpg"
+                        },
+                        {
+                            "goodsid": "04c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2069517494/O1CN0125EIZS7eF0ik5Ns_!!2069517494.jpg"
+                        },
+                        {
+                            "goodsid": "04d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2069517494/O1CN0125EIZSYH9Rp10Ni_!!2069517494.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "小"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "中"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "大"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "05",
+                    "name": "康佳电冰箱 三门家用190升高度160中型高直冷开门三扇门 家电电器",
+                    "price": 899,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/2200742778565/O1CN01pRtQBS2D8os8nAa9N_!!2200742778565-0-pixelsss.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "05a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2200742778565/O1CN01pRtQBS2D8os8nAa9N_!!2200742778565-0-pixelsss.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2200742778565/O1CN01OuBEKU2D8opTIspwS_!!2200742778565.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2200742778565/O1CN01kSLIWl2D8opS5yw73_!!2200742778565.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2200742778565/O1CN01LZtCPe2D8opUiLhOb_!!2200742778565.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "05a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2200742778565/O1CN01CGgVCg2D8ooNYbIcF_!!2200742778565.jpg"
+                        },
+                        {
+                            "goodsid": "05b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2200742778565/O1CN01hLr1aa2D8ooJf6bUr_!!2200742778565.jpg"
+                        },
+                        {
+                            "goodsid": "05c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2200742778565/O1CN01LBePBI2D8ooMzTr2k_!!2200742778565.jpg"
+                        },
+                        {
+                            "goodsid": "05d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2200742778565/O1CN01zTxLZA2D8ooJHuJYq_!!2200742778565.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "小"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "中"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "大"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "girl": {
+            "id": 4,
+            "name": "惊艳女装",
+            "update": "爆款春装",
+            "image": "https://s11.mogucdn.com/mlcdn/c45406/170831_396k1kk0718650he7ej69g2841f47_120x120.jpg",
+            "goodsList": [{
+                    "id": "1",
+                    "name": "MIUCO休闲披肩系带长袖简约直筒显瘦针织连衣裙女装2019秋冬新款",
+                    "price": 358,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/671012022/O1CN01BNeIb61Qo7PbeN2mS_!!671012022.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "lb01",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/671012022/O1CN01BNeIb61Qo7PbeN2mS_!!671012022.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb02",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/671012022/O1CN01gcHV2f1Qo7PYKQG53_!!671012022.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb03",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/671012022/O1CN0108r95T1Qo7Pc7CQrF_!!671012022.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb04",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/671012022/O1CN01XXgi8d1Qo7PYKSbeI_!!671012022.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "deta01",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/671012022/O1CN01E5GUFM1Qo7Pnpfsj1_!!671012022.jpg"
+                        },
+                        {
+                            "goodsid": "deta02",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/671012022/O1CN01tOnqZ71Qo7JoFs1ON_!!671012022.jpg"
+                        },
+                        {
+                            "goodsid": "deta03",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2932942277/O1CN01DKadX61SguPIrejZ6_!!2932942277.jpg"
+                        },
+                        {
+                            "goodsid": "deta04",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2932942277/O1CN01iGdRaF1SguPKJ5a4Q_!!2932942277.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "西西家有甜甜恋爱感觉的蜜桃乌龙茶羊毛衣上衣",
+                    "price": 89.99,
+                    "imgUrl": "https://gd1.alicdn.com/imgextra/i1/841708049/O1CN010hlayy29KUV4izLS7_!!841708049.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "lb05",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/841708049/O1CN010hlayy29KUV4izLS7_!!841708049.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb06",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/841708049/O1CN012qi6Ye29KUV3eBgUJ_!!841708049.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb07",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/841708049/O1CN01IS7iYe29KUUs4Z8Tg_!!841708049.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb08",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/841708049/O1CN01JAZjtf29KUV3eCgpb_!!841708049.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "deta05",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/841708049/O1CN0124d93j29KUV2rKpFa_!!841708049.jpg"
+                        },
+                        {
+                            "goodsid": "deta06",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/841708049/O1CN01JM8Y4r29KUV3eC9YE_!!841708049.jpg"
+                        },
+                        {
+                            "goodsid": "deta07",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/841708049/O1CN010hlayy29KUV4izLS7_!!841708049.jpg"
+                        },
+                        {
+                            "goodsid": "deta08",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/841708049/O1CN01uargiT29KUUW6kFaj_!!841708049.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "[WY292089AG] 笑涵阁 青春减龄 下摆网纱拼接 优弹空气层卫衣",
+                    "price": 268,
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i2/17358122/O1CN01pYkJxq29rvPhxTOGR_!!17358122.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "lb09",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i2/17358122/O1CN01pYkJxq29rvPhxTOGR_!!17358122.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb10",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/17358122/O1CN01jJQfWb29rvPeAjMrb_!!17358122.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb11",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/17358122/O1CN01Sgbozv29rvPfgElZh_!!17358122.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb12",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/17358122/O1CN01xR9hj029rvPdwi9xp_!!17358122.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "deta09",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/17358122/O1CN019Mrzvf29rvMc9oU2P_!!17358122.jpg"
+                        },
+                        {
+                            "goodsid": "deta10",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/17358122/O1CN01pYkJxq29rvPhxTOGR_!!17358122.jpg"
+                        },
+                        {
+                            "goodsid": "deta11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/17358122/O1CN01JEvRMY29rvPgPWKiG_!!17358122.jpg"
+                        },
+                        {
+                            "goodsid": "deta12",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/17358122/O1CN01KXmcBT29rvPdwdvuZ_!!17358122.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "满满_单穿/内搭 怪蜀黍科学怪人圆领长袖T恤白色打底衫女外穿宽松",
+                    "price": 75,
+                    "imgUrl": "https://gd2.alicdn.com/imgextra/i3/83650634/O1CN016Em4GF1GYPfaK66Rc_!!83650634.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "lb13",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i3/83650634/O1CN016Em4GF1GYPfaK66Rc_!!83650634.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb14",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/83650634/O1CN0198wD7c1GYPfkEk2Tf_!!83650634.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb15",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/83650634/O1CN01xEazsb1GYPfVS3ruE_!!83650634.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb16",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/83650634/O1CN015pbYOw1GYPfVF3RwF_!!83650634.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "deta13",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/83650634/O1CN015pbYOw1GYPfVF3RwF_!!83650634.jpg"
+                        },
+                        {
+                            "goodsid": "deta14",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/83650634/O1CN01ku6R8x1GYPfaot0Pb_!!83650634.jpg"
+                        },
+                        {
+                            "goodsid": "deta15",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/83650634/O1CN01eHxQKR1GYPfbWzbJt_!!83650634.jpg"
+                        },
+                        {
+                            "goodsid": "deta16",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/83650634/O1CN01HdaP7b1GYPfYFry1o_!!83650634.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "name": "freshtaro19FW/ 奶绿/亮橘 柔软磨毛堆堆领套头长袖打底T恤衫女",
+                    "price": 95,
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i4/2414178298/O1CN01fIByzz2BAX7Ec5azU_!!2414178298.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "lb17",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i4/2414178298/O1CN01fIByzz2BAX7Ec5azU_!!2414178298.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb18",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/2414178298/O1CN017llurv2BAX7L2kSnL_!!2414178298.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb19",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/2414178298/O1CN01LgJS6Q2BAX7RH8jZw_!!2414178298.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsid": "lb20",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/2414178298/O1CN017N9sJF2BAX7H7XGsO_!!2414178298.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "deta17",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2414178298/O1CN01k3Wfi52BAX7dLYugJ_!!2414178298.png?v=1572433450395"
+                        },
+                        {
+                            "goodsid": "deta18",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2414178298/O1CN01SMKeIS2BAX7T7bf4L_!!2414178298.png?v=1572170036035"
+                        },
+                        {
+                            "goodsid": "deta19",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2414178298/O1CN017llurv2BAX7L2kSnL_!!2414178298.jpg"
+                        },
+                        {
+                            "goodsid": "deta20",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2414178298/O1CN012995J72BAX7Mj1hkI_!!2414178298.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "S"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "M"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "L"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "food": {
+            "id": 5,
+            "name": "食品",
+            "update": "最高199-100",
+            "image": "https://s18.mogucdn.com/p1/150925/upload_ie2wknrwgrtgiylegmzdambqhayde_68x68.jpg",
+            "goodsList": [{
+                    "id": "sna01",
+                    "name": "正宗安徽特产黄山烧饼60个梅干菜扣肉酥饼网红美食糕点心零食小吃",
+                    "price": 19.6,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i4/2780349775/O1CN01ADl7wK2M506NXQ9TJ_!!2780349775.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsId": "sn1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2780349775/O1CN01ADl7wK2M506NXQ9TJ_!!2780349775.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn2",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2780349775/TB2bM7fcoo09KJjSZFDXXb9npXa_!!2780349775.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn3",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2780349775/TB2NU.ZgOqAXuNjy1XdXXaYcVXa_!!2780349775.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn4",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2780349775/TB2fOOuXbYI8KJjy0FaXXbAiVXa_!!2780349775.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsId": "snlist1",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2780349775/TB2395uXlHH8KJjy0FbXXcqlpXa_!!2780349775.jpg"
+                        },
+                        {
+                            "goodsId": "snlist2",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2780349775/TB2mumuXhTI8KJjSspiXXbM4FXa_!!2780349775.jpg"
+                        },
+                        {
+                            "goodsId": "snlist3",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2780349775/TB2fljshtzJ8KJjSspkXXbF7VXa_!!2780349775.jpg"
+                        },
+                        {
+                            "goodsId": "snlist4",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2780349775/TB2R2utXdbJ8KJjy1zjXXaqapXa_!!2780349775.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "100g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "sna02",
+                    "name": "千丝绿豆饼整箱早餐面包网红零食品蛋糕点心特产小吃的成人款美食",
+                    "price": 15.1,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i4/6000000005396/TB2CnNkjNtnkeRjSZSgXXXAuXXa_!!6000000005396-0-tbvideo.jpg_600x600.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsId": "sn5",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/6000000005396/TB2CnNkjNtnkeRjSZSgXXXAuXXa_!!6000000005396-0-tbvideo.jpg_600x600.jpg"
+                        },
+                        {
+                            "goodsId": "sn6",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3522408491/O1CN01nTY0v82CavXDopCMu_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn7",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/3522408491/TB2fy54mYSYBuNjSspiXXXNzpXa_!!3522408491.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn8",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3522408491/O1CN019flF2b2CavXF791y4_!!0-item_pic.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goosId": "snlist5",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/3522408491/TB2ri8KgStYBeNjSspaXXaOOFXa_!!3522408491.jpg"
+                        },
+                        {
+                            "goosId": "snlist6",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/3522408491/TB2Uq9leMKTBuNkSne1XXaJoXXa_!!3522408491.jpg"
+                        },
+                        {
+                            "goosId": "snlist7",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/3522408491/TB28RMigAyWBuNjy0FpXXassXXa_!!3522408491.jpg"
+                        },
+                        {
+                            "goosId": "snlist8",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/3522408491/TB2wvn4gpuWBuNjSszbXXcS7FXa_!!3522408491.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "100g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "sna03",
+                    "name": "其妙蛋黄酥海鸭蛋麻薯雪媚娘网红零食好吃的美食零食小吃休闲食品",
+                    "price": 28.8,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/3300766192/O1CN01rQBT3Y1vbyygSFHRd_!!0-item_pic.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsId": "sn9",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3300766192/O1CN01rQBT3Y1vbyygSFHRd_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn10",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3300766192/O1CN01YIxin81vbyxol2PwT_!!3300766192.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn11",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3300766192/O1CN01naceRt1vbyvzwkGLn_!!3300766192.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn12",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/3300766192/O1CN01rwXz661vbyvzzaCkY_!!3300766192.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsId": "snlist9",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/3300766192/O1CN01mZzsUZ1vbz0KDbdvb_!!3300766192.jpg"
+                        },
+                        {
+                            "goodsId": "snlist10",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/3300766192/O1CN01KEfsNj1vbz0RuNiqN_!!3300766192.jpg"
+                        },
+                        {
+                            "goodsId": "snlist11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/3300766192/O1CN011vbyuL9yPU8XsUN_!!3300766192.jpg"
+                        },
+                        {
+                            "goodsId": "snlist12",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/3300766192/O1CN011vbyuDDLMd5Tc3c_!!3300766192.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "100g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "sna04",
+                    "name": "手撕超干特干风干牛肉干500g罐装正宗内蒙古特产散装零食一斤包邮",
+                    "price": 48.96,
+                    "imgUrl": "https://gd2.alicdn.com/imgextra/i3/2117413426/O1CN01oUm0Rn1bB9TuOhwEx_!!2117413426.jpg_400x400.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsId": "sn13",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i3/2117413426/O1CN01oUm0Rn1bB9TuOhwEx_!!2117413426.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsId": "sn14",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/2117413426/O1CN01aczm0E1bB9TvUO4NP_!!2117413426.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsId": "sn15",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/2117413426/O1CN01REEZ4M1bB9TzBib9Z_!!2117413426.jpg_400x400.jpg"
+                        },
+                        {
+                            "goodsId": "sn16",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/2117413426/O1CN01YAJqCh1bB9ThCMsnf_!!2117413426.jpg_400x400.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsId": "snlist13",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2117413426/O1CN01hDqBhS1bB9SyjfZ73_!!2117413426.jpg"
+                        },
+                        {
+                            "goodsId": "snlist14",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/2117413426/O1CN01kV19cV1bB9T0iIkrC_!!2117413426.jpg"
+                        },
+                        {
+                            "goodsId": "snlist15",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2117413426/O1CN01iVMf6P1bB9Sz9LWph_!!2117413426.jpg"
+                        },
+                        {
+                            "goodsId": "snlist16",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2117413426/O1CN01uWbXwt1bB9SrxIyU3_!!2117413426.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "100g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "sna05",
+                    "name": "桂花鸭南京盐水鸭+酱鸭2000g特产正宗美食送礼真空装熟食中秋食品",
+                    "price": 109.9,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/TB1fryQKXXXXXczaXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsId": "sn17",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/TB1fryQKXXXXXczaXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn18",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2095703462/TB26DyrtXmWBuNjSspdXXbugXXa_!!2095703462.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn19",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2095703462/TB2AFEycFXXXXb3XXXXXXXXXXXX_!!2095703462.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsId": "sn20",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2095703462/TB2cn6dnQqvpuFjSZFhXXaOgXXa_!!2095703462.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsId": "snlist17",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2095703462/TB2.FKEcohnpuFjSZFEXXX0PFXa_!!2095703462.jpg"
+                        },
+                        {
+                            "goodsId": "snlist18",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2095703462/TB2BBGIcbBmpuFjSZFAXXaQ0pXa_!!2095703462.jpg"
+                        },
+                        {
+                            "goodsId": "snlist19",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2095703462/O1CN01EDf5pg1bRdiU0b9in_!!2095703462.jpg"
+                        },
+                        {
+                            "goodsId": "snlist20",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/2095703462/TB2nJs5aai5V1Bjy1zkXXcL4VXa_!!2095703462.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "100g"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "250g"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "500g"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "drink": {
+            "id": 6,
+            "name": "饮料",
+            "update": "低价抢",
+            "image": "https://s11.mogucdn.com/mlcdn/c45406/190108_230a49ecjgjc341da4a4k80c3h3b6_800x800.jpg_100x100.jpg",
+            "goodsList": [{
+                    "id": "6",
+                    "name": "蒙牛 特仑苏 纯牛奶 250ml*16 礼盒装",
+                    "price": 69.9,
+                    "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/46981/29/12908/316287/5d9db4a5Ea9f100fb/2a2adec2341201c7.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/46981/29/12908/316287/5d9db4a5Ea9f100fb/2a2adec2341201c7.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/31624/11/14623/110411/5cbee9a3E956ab4c4/bd040c6a29865ed7.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/35071/17/5303/106970/5cbee9a2E9ad9d51a/7e10332a5738f43d.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/35817/33/5293/69034/5cbee9a3E7271f00d/d4eb0ab3deb94075.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/42141/33/7769/362741/5d146494Ec82b5c00/460fd75080cf1dbf.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/47490/30/3482/258680/5d146495Ec15c71de/47bf2c146b74a071.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/35507/18/12781/297924/5d146495E6e9cb535/db279011580b2bdf.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/80502/18/3099/255250/5d146493E4e8deab5/1b326f2a9d800e14.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "16盒"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "18盒"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "24盒"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "name": "伊利 安慕希希腊风味常温酸奶原味205g*16盒",
+                    "price": 62.9,
+                    "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/35817/25/12355/287788/5d033dd4Ec14abf40/e2750f28a15984ef.png",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/35817/25/12355/287788/5d033dd4Ec14abf40/e2750f28a15984ef.png"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/60598/19/1828/88667/5d033de6E97405913/fd10f1fe86e5bec9.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/58752/10/2196/87917/5d033df2E67ddb5ff/86b743bc76b92456.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/66839/33/1881/92269/5d033df2E2af73e77/f05e56b7a7c0dee7.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/35063/18/12082/192648/5d033e45E48375203/79150120a06cb990.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/70566/4/1839/84066/5d033e45E77009a0d/40e5d9eba6c2fe9c.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/84651/35/2263/74643/5d033e45E57af73c5/8dcf93f3b0967c88.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img10.360buyimg.com/imgzone/jfs/t1/48914/24/2385/185200/5d033e45Ef9536011/ac8a15d4a21c3055.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "16盒"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "18盒"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "24盒"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "name": "维他奶 维他柠檬茶饮料250ml*24盒 柠檬味红茶 经典柠檬茶风味饮品 整箱装",
+                    "price": 49.9,
+                    "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/12074/33/13864/212796/5ca17746Ecd7af6e9/727c4ed671be8e48.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/12074/33/13864/212796/5ca17746Ecd7af6e9/727c4ed671be8e48.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/33441/1/834/165291/5ca17735Edac42cea/b8f0db6ccf7e26f5.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/67611/4/12650/283788/5da17d6aEf79a7b5a/4f64e15beec86322.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img12.360buyimg.com/n1/jfs/t1/50313/14/13213/297120/5da17d6aE7ecb3692/d6067941aeb1ec4a.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/42755/33/7736/769670/5d136872Eb90f9771/361dc056c0fcf99e.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/63547/24/4922/225079/5d301453E9da95492/d58503d0564581da.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/55738/12/5323/293984/5d301453E46b2b552/f9128ad003cb3e29.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/38811/1/11872/293854/5d301453E846c5850/c9f7a4675d9230f8.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "16盒"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "18盒"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "24盒"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "name": "娃哈哈 AD钙奶 含乳饮料 220g*24瓶 整箱装 （新老包装随机发货）",
+                    "price": 42.8,
+                    "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/80401/4/12472/215795/5d9beb33Ea5c0821f/70a2f89f703bb7d2.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t1/80401/4/12472/215795/5d9beb33Ea5c0821f/70a2f89f703bb7d2.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t27784/351/2217329081/337660/40210743/5bfbb776N7948e231.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t28459/265/730405747/196190/7716bd34/5bfbb776Nec05f0c9.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img14.360buyimg.com/n1/jfs/t29047/235/708364847/136943/aef4b166/5bfbb775N5c5fb49c.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t30850/196/689049120/337660/40210743/5bfbb8deNe545e9ae.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t30787/251/721641875/184021/1c2e28a9/5bfbb8deNd0656ed0.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t29452/71/674369379/193034/2ce5b528/5bfbb8deNfbd50045.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/popWaterMark/jfs/t30301/313/678108102/128423/6d337fc5/5bfbb8deN0e948541.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "16盒"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "18盒"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "24盒"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "name": "元気森林 元气森林无糖气泡水苏打水元气水汽水饮料 白桃味 480ml*12瓶 整箱",
+                    "price": 53.9,
+                    "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/44830/19/13108/50038/5d9ec37eE75ec3607/d4f2480fa7019abb.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/44830/19/13108/50038/5d9ec37eE75ec3607/d4f2480fa7019abb.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/45627/28/12730/48506/5d9ec37eE788025e4/a01c245002091ed0.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/80507/2/12580/51699/5d9ec37eEa40faf54/9d1c5f7dea9d1203.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrl": "http://img10.360buyimg.com/n1/jfs/t1/46750/7/12872/106905/5d9ec37eE9b0181e4/7d276a09eb564ae3.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/79685/37/1760/113326/5d00a90fE15a67e7e/8696420e4a1b3987.jpg"
+                        },
+                        {
+                            "goodsid": "02",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/35513/6/12123/111916/5d00a910E4e7cbc61/bdc3fc14e05e9162.jpg"
+                        },
+                        {
+                            "goodsid": "03",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/51077/2/2231/139383/5d00a910E7cea7735/c5a23409527e6b13.jpg"
+                        },
+                        {
+                            "goodsid": "04",
+                            "imgUrlList": "http://img30.360buyimg.com/sku/jfs/t1/80962/12/1735/113029/5d00a910E81926610/86bb861d338c9ce3.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "16盒"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "18盒"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "24盒"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "digital": {
+            "id": 7,
+            "name": "数码电器",
+            "update": "惊心折扣",
+            "image": "https://s11.mogucdn.com/mlcdn/c45406/190411_01f9el567f18cea2g475dk93bf3ak_640x960.jpg_100x100.jpg",
+            "goodsList": [{
+                    "id": "1",
+                    "name": "【2398元起】Huawei/华为 Mate 20商务mate20 pro正品20x Mate30",
+                    "price": 2398,
+                    "imgUrl": "https://gd4.alicdn.com/imgextra/i1/356518299/O1CN01mLF0Rs2BAzRTYrpeS_!!356518299.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i1/356518299/O1CN01mLF0Rs2BAzRTYrpeS_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/356518299/O1CN01acicWW2BAzRaYLhmE_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd1.alicdn.com/imgextra/i1/356518299/O1CN012pdLSQ2BAzQNQGG84_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/356518299/O1CN01IRxBb62BAzRUpHBpb_!!356518299.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/356518299/O1CN01TkoG992BAzVpgjlsM_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/356518299/O1CN01CWwuLf2BAzWDicCOd_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/356518299/O1CN01ey72Wr2BAzVp800M8_!!356518299.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/356518299/O1CN01DINYng2BAzVxBxX9T_!!356518299.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "2G+64G"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "4G+128G"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "6G+256G"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "name": "正品honor/荣耀 荣耀9全网通6G运行+128G内存智能手机指纹解锁9i",
+                    "price": 1200,
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i4/0/O1CN01S5u5Zk1iCi7UFmwRX_!!0-item_pic.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i4/0/O1CN01S5u5Zk1iCi7UFmwRX_!!0-item_pic.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/3172614377/O1CN01owEC501iCi3Zt1Nfj_!!3172614377.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/3172614377/O1CN01gLtdej1iCi3ZszlyW_!!3172614377.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/3172614377/O1CN01v6iCh81iCi3aj1SJL_!!3172614377.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/3172614377/O1CN01K0pIZU1iCi3h8zHed_!!3172614377.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/3172614377/O1CN01HQApEC1iCi3e6NhT4_!!3172614377.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/3172614377/O1CN01xZOb8o1iCi3YjzPQG_!!3172614377.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/3172614377/O1CN01m29bt01iCi3aN3cpI_!!3172614377.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "2G+64G"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "4G+128G"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "6G+256G"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "name": "Apple/苹果 13 英寸 MacBook Air 1.6GHz 双核处理器，Turbo Boost 最高可达 3.6GHz 128GB 存储容量 触控 ID",
+                    "price": 8899,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/1917047079/O1CN01WDQCxl22AEIDMbggw_!!1917047079.jpeg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/1917047079/O1CN01WDQCxl22AEIDMbggw_!!1917047079.jpeg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/1917047079/O1CN01W9FJvQ22AEICk2lcP_!!1917047079.jpeg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/1917047079/O1CN011T51EZ22AEIEdH5qE_!!1917047079.jpeg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/1917047079/O1CN01I6qnIG22AEIAWJC7y_!!2-item_pic.png_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/1917047079/O1CN01uNX5wn22AEIe0SMIx_!!1917047079.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/1917047079/O1CN0122AEDporRl4KMVl_!!1917047079.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/1917047079/O1CN018aUmY822AEIXqXb7S_!!1917047079.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/1917047079/O1CN01s4QQgX22AEIfWsN6B_!!1917047079.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "2G+64G"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "4G+128G"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "6G+256G"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "name": "【2019新品】Lenovo/联想 拯救者 Y7000 2019新款 九代酷睿i5 15.6英寸游戏笔记本电脑轻薄独显4G手提游戏本",
+                    "price": 5399,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/459462135/O1CN01si4lYX1Rds7orRkw2_!!459462135.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/459462135/O1CN01si4lYX1Rds7orRkw2_!!459462135.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/459462135/O1CN01PDmyYK1RdsASlBTgG_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/459462135/O1CN01IroFET1RdsAHcOyya_!!459462135.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/459462135/O1CN01V9phDy1Rds7qFCYJU_!!459462135.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/459462135/O1CN012BVo3r1RdsATiZTqv_!!459462135.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/459462135/O1CN01gFgwoL1RdsAVn9VIi_!!459462135.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/459462135/O1CN01ukpd541RdsAHcROlf_!!459462135.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i1/459462135/O1CN01X8Y8l11Rds7mKeDJH_!!459462135.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "2G+64G"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "4G+128G"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "6G+256G"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "name": "【直降】OPPO Find X超级闪充版oppofindx曲面屏手机升降式摄像头",
+                    "price": 3198,
+                    "imgUrl": "https://gd3.alicdn.com/imgextra/i3/861651106/O1CN01HlqBfO1K2aaG880mK_!!861651106.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "1",
+                            "imgUrl": "https://gd3.alicdn.com/imgextra/i3/861651106/O1CN01HlqBfO1K2aaG880mK_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "2",
+                            "imgUrl": "https://gd2.alicdn.com/imgextra/i2/861651106/O1CN01tC8ekb1K2aaK7ZCmg_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "3",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/861651106/O1CN012eyZuc1K2aaFKsftR_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "4",
+                            "imgUrl": "https://gd4.alicdn.com/imgextra/i4/861651106/O1CN01ZuOohD1K2aaImIpVu_!!861651106.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "11",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/861651106/O1CN01C0NPTU1K2aZB0x8gA_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "22",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/861651106/O1CN015bDrTi1K2aZE3iVeu_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "33",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/861651106/O1CN01Ba00us1K2aZDqKvJ3_!!861651106.jpg"
+                        },
+                        {
+                            "goodsid": "44",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i2/861651106/O1CN01YKwYX21K2aZDT1iPW_!!861651106.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "2G+64G"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "4G+128G"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "6G+256G"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        "accessories": {
+            "id": 8,
+            "name": "配饰",
+            "update": "时尚配饰超低价",
+            "image": "https://s10.mogucdn.com/mlcdn/c45406/190614_66d0bga2lg4h951h9600el11b3jg1_120x120.jpg",
+            "goodsList": [{
+                    "id": "01",
+                    "name": "儿童耳环耳夹无耳洞宝宝公主可爱卡通女孩女童假耳坠首饰耳钉饰品",
+                    "price": 8.88,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/2233863991/O1CN01ONdXM01fLvFQTf6Dw_!!2233863991.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "01a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2233863991/O1CN01ONdXM01fLvFQTf6Dw_!!2233863991.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2233863991/O1CN01w9pqw91fLvFOV1e9t_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2233863991/O1CN01DawMWu1fLvFxQSmRC_!!2233863991.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "01d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/2233863991/O1CN01ONdXM01fLvFQTf6Dw_!!2233863991.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "01a1",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2233863991/TB24pD_Jr9YBuNjy0FgXXcxcXXa_!!2233863991.jpg"
+                        },
+                        {
+                            "goodsid": "01b1",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2233863991/O1CN01dQYlFL1fLvFE8YXyR_!!2233863991.jpg"
+                        },
+                        {
+                            "goodsid": "01c1",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i3/2233863991/TB2vBsfcjfguuRjSszcXXbb7FXa_!!2233863991.jpg"
+                        },
+                        {
+                            "goodsid": "01d1",
+                            "imgUrlList": "https://img.alicdn.com/imgextra/i4/2233863991/TB2KNHHA5CYBuNkHFCcXXcHtVXa_!!2233863991.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "蓝色"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "红色"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "粉色"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "02",
+                    "name": "totwoo感应情侣手链手镯异地恋礼物一对智能首饰品感应震动情侣款",
+                    "price": 28,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/3001692483/O1CN01wgl9OW1UDFzU15vGF_!!3001692483.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "02a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3001692483/O1CN01wgl9OW1UDFzU15vGF_!!3001692483.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "02b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3001692483/O1CN01DuyCdj1UDFxUpfkBr_!!3001692483.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "02c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3001692483/O1CN01F06WnT1UDFzQ5LZLk_!!3001692483.jpeg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "02d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3001692483/O1CN01ReS5xi1UDFzv0bH2T_!!0-item_pic.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "02a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3001692483/O1CN01WnuyU91UDFzN6D7GT_!!3001692483.jpg"
+                        },
+                        {
+                            "goodsid": "02b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3001692483/O1CN019NceTQ1UDFzEJHlR7_!!3001692483.jpg"
+                        },
+                        {
+                            "goodsid": "02c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3001692483/O1CN01GKUtU81UDFzHOBiYF_!!3001692483.jpg"
+                        },
+                        {
+                            "goodsid": "02d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/3001692483/O1CN014SOmt21UDFzCXFQE8_!!3001692483.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "蓝色"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "红色"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "粉色"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "03",
+                    "name": "欧式花瓶仿真插花茶几摆件家居客厅电视柜软装陶瓷饰品玄关摆设",
+                    "price": 219,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i1/2336242853/O1CN018czcSs1WwiXl3HEdd_!!2336242853-0-pixelsss.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "03a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2336242853/O1CN018czcSs1WwiXl3HEdd_!!2336242853-0-pixelsss.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2336242853/TB2FPBadheK.eBjSZFuXXcT4FXa_!!2336242853.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/2336242853/TB2NmYJcr1K.eBjSszbXXcTHpXa_!!2336242853.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "03d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2336242853/TB2zy40cVXXXXb_XXXXXXXXXXXX_!!2336242853.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "03a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/2336242853/TB2blFUggoQMeJjy0FnXXb8gFXa_!!2336242853.jpg"
+                        },
+                        {
+                            "goodsid": "03b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2336242853/TB2EsFKgbsTMeJjSsziXXcdwXXa_!!2336242853.jpg"
+                        },
+                        {
+                            "goodsid": "03c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2336242853/TB208KftFXXXXaNXXXXXXXXXXXX_!!2336242853.jpg"
+                        },
+                        {
+                            "goodsid": "03d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/2336242853/TB2zmietFXXXXaYXXXXXXXXXXXX_!!2336242853.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "蓝色"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "红色"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "粉色"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "04",
+                    "name": "十二星座夜光项链男女士韩版情侣吊坠男潮网红挂坠钛钢配饰品礼物",
+                    "price": 19,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/3389747690/O1CN01HcHwZI26g4HjJqDmB_!!0-item_pic.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "04a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3389747690/O1CN01HcHwZI26g4HjJqDmB_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3389747690/O1CN017cINSF26g4Hj4kMRs_!!3389747690.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i1/3389747690/O1CN0186qnct26g4IEWlGt3_!!3389747690.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "04d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3389747690/O1CN01Bsss7B26g4IDStHH0_!!3389747690.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "04a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3389747690/O1CN01ozJXnI26g4HZ1eR8O_!!3389747690.jpg"
+                        },
+                        {
+                            "goodsid": "04b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/3389747690/O1CN01YLy1rr26g4HfopmX4_!!3389747690.jpg"
+                        },
+                        {
+                            "goodsid": "04c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i4/3389747690/O1CN01VSQ58w26g4HgVquDL_!!3389747690.jpg"
+                        },
+                        {
+                            "goodsid": "04d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/3389747690/O1CN01swK7zc26g4HT6l9Ez_!!3389747690.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "蓝色"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "红色"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "粉色"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                },
+                {
+                    "id": "05",
+                    "name": "周大生黄金3D硬金转运珠手链女小鹿路路通饰品送皮绳一鹿一路有你",
+                    "price": 720,
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01HEabEt2FyEZ7hizNM_!!0-item_pic.jpg_430x430q90.jpg",
+                    "news": "新品上新",
+                    "detailImage": [{
+                            "goodsid": "05a",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01HEabEt2FyEZ7hizNM_!!0-item_pic.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05b",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/TB2Oq4tHkCWBuNjy0FaXXXUlXXa_!!673558948.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05c",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01x5apzL2FyETgeQBCR_!!673558948.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "goodsid": "05d",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01DRWmII2FyEXjNRRWK_!!0-item_pic.jpg_430x430q90.jpg"
+                        }
+                    ],
+                    "imgDetailsList": [{
+                            "goodsid": "05a1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01XeTt3v2FyEWDXU0q2_!!673558948.jpg"
+                        },
+                        {
+                            "goodsid": "05b1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/673558948/O1CN01VeM6sK2FyEWC1M4gT_!!673558948.jpg"
+                        },
+                        {
+                            "goodsid": "05c1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i3/673558948/O1CN01UMJlj62FyEW9HS7rz_!!673558948.jpg"
+                        },
+                        {
+                            "goodsid": "05d1",
+                            "imgUrl": "https://img.alicdn.com/imgextra/i2/673558948/O1CN01cguCxt2FyEWEC13lL_!!673558948.jpg"
+                        }
+                    ],
+                    "type": [{
+                            "id": "1111",
+                            "name": "蓝色"
+                        },
+                        {
+                            "id": "2222",
+                            "name": "红色"
+                        },
+                        {
+                            "id": "3333",
+                            "name": "粉色"
+                        }
+                    ],
+                    "skuComb": [{
+                            "id": "1",
+                            "price": 168,
+                            "s1": "111",
+                            "stock_num": 1234
+                        },
+                        {
+                            "id": "2",
+                            "price": 178,
+                            "s1": "222",
+                            "stock_num": 332
+                        },
+                        {
+                            "id": "3",
+                            "price": 198,
+                            "s1": "333",
+                            "stock_num": 87
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
